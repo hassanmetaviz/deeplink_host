@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+        {
+        "appID": "W5W3PJFG3R.com.bakajika.app", 
+        "paths": ["/invite*"] 
+        }
+    ]
+  }
+}

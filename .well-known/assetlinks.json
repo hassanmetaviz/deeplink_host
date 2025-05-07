@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bakajika.app",
+      "sha256_cert_fingerprints": [
+        "ED:09:E1:80:AB:24:17:D1:18:DE:43:50:41:09:23:D5:8C:CD:56:4C:F4:87:4D:E2:B8:C0:61:F3:FF:42:50:20"
+      ]
+    }
+  }
+]
